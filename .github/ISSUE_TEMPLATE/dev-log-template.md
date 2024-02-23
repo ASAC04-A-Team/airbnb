@@ -1,9 +1,9 @@
 ---
 name: Dev-Log Template
 about: "[Dev-Log] issue template "
-title: "[Dev-Log]"
+title: "[Dev-Log] 2024-MM-DD 이름"
 labels: Dev log
-assignees: wjdsheep15, lusate, WinsomeJoo, GumaLee
+assignees: GumaLee, lusate, WinsomeJoo, wjdsheep15
 
 ---
 
